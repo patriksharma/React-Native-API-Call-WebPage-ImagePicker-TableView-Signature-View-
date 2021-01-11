@@ -1,0 +1,70 @@
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+
+import Home from './screens/Home';
+import Blog from './screens/Blog';
+import webPage from './screens/webPage';
+import ApiContainer from './screens/ApiContainer';
+import SignatureView from './screens/SignatureView';
+import BlogDetails from './screens/BlogDetails';
+
+const Stack = createStackNavigator();
+
+function NavStack() {
+  return (
+     <Stack.Navigator
+        initialRouteName="Home"
+        screenOptions={{
+          headerTitleAlign: 'center',
+          headerStyle: {
+            backgroundColor: '#621FF7',
+          },
+          headerTintColor: '#fff',
+          headerTitleStyle :{
+            fontWeight: 'bold',
+          },
+        }}
+      >
+      <Stack.Screen 
+        name="Home" 
+        component={Home} 
+        options={{ title: 'Home' }}
+      />
+      <Stack.Screen 
+        name="Blog" 
+        component={Blog} 
+        options={{ title: 'Blog' }}
+      />
+      <Stack.Screen 
+       name="BlogDetails" 
+       component={BlogDetails} 
+       options={{ title: 'Blog Detail' }}
+      />
+       <Stack.Screen 
+       name="webPage" 
+       component={webPage} 
+       options={{ title: 'Web View' }}
+      />
+        <Stack.Screen 
+       name="ApiContainer" 
+       component={ApiContainer} 
+       options={{ title: 'API CALLS' }}
+      /> 
+         <Stack.Screen 
+       name="SignatureView" 
+       component={SignatureView} 
+       options={{ title: 'Signature View' }}
+      /> 
+    </Stack.Navigator>
+  );
+}
+
+export default function App() {
+  return (
+    <NavigationContainer>
+      <NavStack />
+    </NavigationContainer>
+  );
+}
+

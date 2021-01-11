@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactNativeNavigation.iml" filepath="$PROJECT_DIR$/.idea/modules/reactNativeNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/reactNativeNavigation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/reactNativeNavigation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1745011719/reactNativeNavigation.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/1745011719/reactNativeNavigation.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1204827450/reactNativeNavigation.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/-1204827450/reactNativeNavigation.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-854317981/reactNativeNavigation.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/-854317981/reactNativeNavigation.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1215066711/reactNativeNavigation.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/1215066711/reactNativeNavigation.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-13883080/reactNativeNavigation.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/-13883080/reactNativeNavigation.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1870368082/reactNativeNavigation.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-1870368082/reactNativeNavigation.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1635105434/reactNativeNavigation.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-1635105434/reactNativeNavigation.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2102810639/reactNativeNavigation.expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/2102810639/reactNativeNavigation.expo-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/476285470/reactNativeNavigation.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/476285470/reactNativeNavigation.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2105983173/reactNativeNavigation.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-2105983173/reactNativeNavigation.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/991214324/reactNativeNavigation.expo-secure-store.iml" filepath="$PROJECT_DIR$/.idea/modules/991214324/reactNativeNavigation.expo-secure-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/883601801/reactNativeNavigation.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/883601801/reactNativeNavigation.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1221627467/reactNativeNavigation.expo-sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1221627467/reactNativeNavigation.expo-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-943666943/reactNativeNavigation.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/-943666943/reactNativeNavigation.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/651242375/reactNativeNavigation.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/651242375/reactNativeNavigation.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1782018864/reactNativeNavigation.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1782018864/reactNativeNavigation.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2082607892/reactNativeNavigation.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2082607892/reactNativeNavigation.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-520454247/reactNativeNavigation.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-520454247/reactNativeNavigation.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-638919951/reactNativeNavigation.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-638919951/reactNativeNavigation.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1273952803/reactNativeNavigation.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/1273952803/reactNativeNavigation.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2037167751/reactNativeNavigation.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-2037167751/reactNativeNavigation.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1942066293/reactNativeNavigation.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1942066293/reactNativeNavigation.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1015028375/reactNativeNavigation.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1015028375/reactNativeNavigation.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/179377641/reactNativeNavigation.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/179377641/reactNativeNavigation.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-869122882/reactNativeNavigation.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-869122882/reactNativeNavigation.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1045238872/reactNativeNavigation.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1045238872/reactNativeNavigation.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215547361/reactNativeNavigation.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215547361/reactNativeNavigation.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/677657365/reactNativeNavigation.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/677657365/reactNativeNavigation.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1226839156/reactNativeNavigation.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1226839156/reactNativeNavigation.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/8937457/reactNativeNavigation.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/8937457/reactNativeNavigation.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-779885119/reactNativeNavigation.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-779885119/reactNativeNavigation.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1072111179/reactNativeNavigation.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1072111179/reactNativeNavigation.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>
